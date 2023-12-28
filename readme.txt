@@ -3,3 +3,6 @@ mo
 login
 
 signup
+
+home
+
